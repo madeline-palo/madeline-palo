@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hi there 👋 I am Madeline Reece T. Palo
 
-<!--
-**madeline-palo/madeline-palo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I recently graduated (July 2025) with a degree in **Information Technology**.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 What I Know  
+- **Languages:** Java, C#, JavaScript, HTML, CSS, SQL  
+- **Currently learning:** Python, C++  
+- **Tools & Technologies:** Power BI, Power Automate, Microsoft Excel/Word/PowerPoint
+
+### 🎯 My Goal  
+I’m looking for an entry-level developer role (Frontend, Backend, Full-Stack, Web) where I can learn fast, contribute meaningful features, and grow into a dependable software engineer.
+
+### 📌 My GitHub Plan  
+- Launching my first projects here soon.  
+- Sharing what I learn along the way.
+
+### 📫 Contact
+- LinkedIn: https://www.linkedin.com/in/madeline-palo-3b051a236/
+- Email: palomadeline0@gmail.com
+- GitHub: https://github.com/madeline-palo
